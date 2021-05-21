@@ -3,7 +3,6 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Ejercicio14 {
-    private static double d;
 
     public static void main(String[] args) {
 
